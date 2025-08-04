@@ -17,22 +17,23 @@ I'm passionate about transforming raw data into actionable insights using Python
 
 ## 📁 Projects
 
-### 📊 [Sales Dashboard (Power BI)](https://app.powerbi.com/view?r=your-link)
-Interactive Power BI dashboard analyzing regional sales trends, growth, and KPIs.
+### 📊 [Sales Dashboard (Power BI)
+Retail Analytics: I conducted a comprehensive analysis on Retail Data of a Canadian Super Store 
+Dataset including Annual Sales and Markdown based on key influencing factors like CPI, Return 
+Rate etc. using POW
 
-### 🦠 [COVID-19 Data Analysis (Python)](https://github.com/aliza-hashmi/covid-analysis)
+### 🦠 [COVID-19 Data Analysis (Python)]
 Python project analyzing COVID-19 trends using data wrangling and visualization tools.
 
-### 🧑‍💼 [HR SQL Queries](https://github.com/aliza-hashmi/hr-sql-queries)
-Wrote SQL queries to explore employee attrition, average salaries, and department trends.
-
+### 🧑‍💼 [Canadian Health Work Force]
+I completed a detailed analysis on Canadian Health WorkForce with focus on workforce distribution, training locations, regional disparities, and the impact of the COVID-19 pandemic using Power Query for Data Wrangling, SQL Server for In-Depth Analysis and Power BI for Data Visualizations.
 ---
 
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/aliza-hashmi)
 - 🐙 [GitHub](https://github.com/aliza-hashmi)
-- 📄 [Resume (PDF)](https://your-link-to-resume)
+- 📄 [Resume (PDF)](file:///C:/Users/haroon%20trader/OneDrive/Documents/Aliza%20Hashmi-Resume.pdf)
 
 ---
 
