@@ -1,4 +1,4 @@
-# aliza-hashmi22.github.io
+
 # 👋 Hi, I'm Aliza Hashmi
 
 🎓 Electronics Engineer | 📊 Data Analyst | 🧠 Generative AI Learner
@@ -17,21 +17,23 @@ I'm passionate about transforming raw data into actionable insights using Python
 
 ## 📁 Projects
 
-### 📊 [Super Store Sales Dashboard (Power BI)]
+### 📊 [Sales Dashboard (Power BI)](https://app.powerbi.com/view?r=your-link)
 Interactive Power BI dashboard analyzing regional sales trends, growth, and KPIs.
 
-### 🦠 [COVID-19 Data Analysis (Python)](https://github.com/yourusername/covid-analysis)
+### 🦠 [COVID-19 Data Analysis (Python)](https://github.com/aliza-hashmi/covid-analysis)
 Python project analyzing COVID-19 trends using data wrangling and visualization tools.
 
+### 🧑‍💼 [HR SQL Queries](https://github.com/aliza-hashmi/hr-sql-queries)
+Wrote SQL queries to explore employee attrition, average salaries, and department trends.
 
 ---
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](www.linkedin.com/in/aliza-hashmi-148872b0)
-- 🐙 [GitHub](https://github.com/AlizaHashmi22)
+- 🔗 [LinkedIn](https://linkedin.com/in/aliza-hashmi)
+- 🐙 [GitHub](https://github.com/aliza-hashmi)
+- 📄 [Resume (PDF)](https://your-link-to-resume)
 
 ---
 
 > *“Data is the new oil, but insight is the new fire.”*
-
